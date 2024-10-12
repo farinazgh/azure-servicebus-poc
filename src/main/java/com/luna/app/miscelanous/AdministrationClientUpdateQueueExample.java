@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class AdministrationClientUpdateQueueExample {
-    static String connectionString = "Endpoint=sb://pmasb001.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=3HD6CfdwJIgmW5bAvpUHtGuPek+BhwoxV+ASbHqa3Mk=";
+    static String connectionString = "";
     static String queueName = "queue001";
 
     public static void main(String[] args) {
